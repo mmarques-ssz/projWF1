@@ -1,0 +1,7 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF1\projWF1\bin\Debug\projWF1.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF1\projWF1\bin\Debug\projWF1.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF1\projWF1\obj\x86\Debug\projWF1.Properties.Resources.resources
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF1\projWF1\obj\x86\Debug\projWF1.csproj.GenerateResource.Cache
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF1\projWF1\obj\x86\Debug\projWF1.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF1\projWF1\obj\x86\Debug\projWF1.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projWF1\projWF1\obj\x86\Debug\projWF1.frmContador.resources
